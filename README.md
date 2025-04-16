@@ -9,10 +9,9 @@ live link -> https://redditfeedviewer.netlify.app/
 
 
 
+** HOW TO RUN THE PROJECT **
 
-
-
-Here's a concise and powerful `README.md` for running a **Vite + React Native** project (note: Vite is not natively used with React Native, but with **React web**. However, we can reimagine the setup using tools like **Expo** and **Metro** bundler for React Native and bring Vite-like speed to the DX):
+Running a **Vite + React Native** project (note: Vite is not natively used with React Native, but with **React web**. However, we can reimagine the setup using tools like **Expo** and **Metro** bundler for React Native and bring Vite-like speed to the DX):
 
 ```markdown
 # Vite-Powered React Native Project
